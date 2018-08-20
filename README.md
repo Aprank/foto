@@ -1,1 +1,0 @@
-# LoginQR-Py2
